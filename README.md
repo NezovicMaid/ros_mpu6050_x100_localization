@@ -39,7 +39,6 @@ This project implements a complete pipeline for this integration:
 -   NVIDIA Jetson (or other main computer)
 -   Arduino Uno
 -   MPU-6050 IMU sensor
--   Jumper wires
 
 
 ## How to Use
